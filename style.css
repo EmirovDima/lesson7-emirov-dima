@@ -1,0 +1,29 @@
+.card {
+    width: 460px;
+    border: 4px solid red;
+    font-family: 'Oswald', sans-serif;
+    padding-bottom: 50px;
+}
+
+.card-img {
+    width: 460px;
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    color: grey;
+    padding-left: 100px;
+    padding-right: 100px;
+ }
+
+.card-price {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    font-weight: 548;
+}
